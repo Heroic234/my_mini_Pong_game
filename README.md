@@ -2,7 +2,7 @@
 
 I began this project  recently and I am still working on major improvements with friends and family to bring game development to all in the near future
 
-Special thanks to friends and family who tested out the game and game me feedback
+Special thanks to friends and family who tested out the game and gave useful feedback
 
 Your contributions will not go wasted
 
